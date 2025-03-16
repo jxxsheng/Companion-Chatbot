@@ -4,7 +4,7 @@ export const fetchResponse = async (text) => {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
-          Authorization: "Bearer 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",
+          Authorization: "Bearer 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",
         },
         body: JSON.stringify({
           model: "sonar-pro",
